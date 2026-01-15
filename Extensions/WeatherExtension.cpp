@@ -218,7 +218,7 @@ void WeatherWidget::updateWeather()
         return;
     }
 
-    m_apiKey = "2ab6305af2f3bce2c563c9c8b53a492b";
+    m_apiKey = "???";
 
     if (m_apiKey == "YOUR_API_KEY_HERE") {
         m_weatherLabel->setText("🔑 Установите API ключ");
@@ -537,4 +537,5 @@ void WeatherWidget::updateWeatherDisplay(const QString& cityName, const QString&
 QWidget* WeatherExtension::createWidget(QWidget* parent)
 {
     return new WeatherWidget(parent);
+
 }
