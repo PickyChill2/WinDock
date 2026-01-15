@@ -1,0 +1,8 @@
+# Blacklist for Dock applications
+Program Manager
+Settings
+Dock
+MSCTFIME UI
+Default IME
+NVIDIA GeForce Overlay
+Microsoft Text Input Application
