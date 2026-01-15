@@ -1,6 +1,0 @@
-razerappengine.exe
-audiodg.exe
-firefox.exe
-svchost.exe
-applicationframehost.exe
-explorer.exe

@@ -1,5 +1,0 @@
-# Mapping of process names to main executables
-# Format: process_name=main_executable.exe
-steamwebhelper.exe=steam.exe
-discord.exe=discord.exe
-
